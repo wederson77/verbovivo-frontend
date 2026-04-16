@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_BASE_URL = "https://verbo-vivo-backend-1.onrender.com"; // Base URL do backend
+const API_BASE_URL = "https://verbo-vivo-backend.onrender.com"; // Base URL do backend
 
 const sanitizeInput = (input) => {
   // Filtra apenas caracteres alfanuméricos e espaços
